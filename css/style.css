@@ -1,0 +1,9 @@
+.hidden{
+visibility: hidden;
+}
+.bold{
+font-weight:bold !important;
+}
+.starter-template{
+margin-bottom:20px;
+}
